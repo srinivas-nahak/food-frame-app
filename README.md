@@ -1,4 +1,4 @@
-# meals_app
+# Food Frame App
 
 A meals app
 
