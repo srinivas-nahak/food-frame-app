@@ -11,7 +11,7 @@ A food showcase app that shows you food according to the categories. Also, you c
 
 ## Screenshots
 
-![Bmi_App_Body_Multiple_Screens-compressed](https://github.com/srinivas-nahak/bmi-calculator-app/assets/24781014/d90ad1c6-6dcb-4265-b625-511f2f412170)
+
 
 
 
@@ -25,9 +25,8 @@ https://github.com/srinivas-nahak/food-frame-app/assets/24781014/fed9dc31-aa29-4
 
 
 ## Features
-- [x] Lets the user add their gender, height, weight, and age.
-- [x] Shows you your BMI along with a message
-- [x] Adapts the UI according to the screen size.
+- [x] Lets the user mark food as a favorite.
+- [x] Shows you different filters. 
 
 
 ## License
