@@ -1,7 +1,3 @@
-# Food Frame App
-
-A meals app
-
 ![Food_Frame_App_Header-compressed](https://github.com/srinivas-nahak/food-frame-app/assets/24781014/0d61702f-7714-4bc2-a845-3531c132de67)
 
 
