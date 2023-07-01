@@ -5,11 +5,6 @@
 ## Description
 A food showcase app that shows you food according to the categories. Also, you can mark particular dishes as favorites and apply filters to filter the food. It is made with Flutter, Material Design 3 using the recommended <a href="https://docs.flutter.dev/resources/architectural-overview">Flutter Architecture Guidelines</a>.
 
-## Screenshots
-
-
-
-
 
 ## Demo
 
